@@ -80,14 +80,6 @@ This project uses the [QR Server API](https://goqr.me/api/) for generating QR co
 - Safari (latest)
 - Edge (latest)
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Author
 
 Created with ❤️ for easy QR code generation
